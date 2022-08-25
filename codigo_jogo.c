@@ -1,3 +1,5 @@
+//FEITO POR MELQUE
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
